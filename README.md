@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin-devan&label=Profile%20views&color=0e75b6&style=flat" alt="vipin-devan" /> </p>
 
+- 🌱 I’m currently learning **various frameworks and technologies**
 
 - 📫 How to reach me **vipindevan08@gmail.com**
 
@@ -17,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipin-devan&show_icons=true&locale=en&layout=compact" alt="vipin-devan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipin-devan&show_icons=true&locale=en" alt="vipin-devan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipin-devan&" alt="vipin-devan" /></p>
