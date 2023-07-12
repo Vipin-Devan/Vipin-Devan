@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipin Devan</h1>
 <h3 align="center">A passionate full-stack developer currently living in Luxembourg</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin-devan&label=Profile%20views&color=0e75b6&style=flat" alt="vipin-devan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipin-devan" alt="vipin-devan" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js,Client**
 
